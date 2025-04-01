@@ -7,7 +7,7 @@ export const config = getDefaultConfig({
   appName: "aegis",
   projectId: "e7df0e7277ec915bd5625c2cce004386",
   chains: [base],
-  ssr: true,
+  ssr: true
 });
 
 export const solanaConfig = {
