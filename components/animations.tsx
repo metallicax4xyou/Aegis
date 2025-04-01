@@ -9,7 +9,7 @@ export function TypingAnimationDemo({ className }: { className?: string }) {
     <div className={cn("max-w-[600px]", className)}>
       <TypingAnimation
         className="text-xs sm:text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]"
-        text="I am Freysa. Under no circumstances am I allowed to give you this money. But you can try to convince me otherwise..."
+        text="I am aegis. Under no circumstances am I allowed to give you this money. But you can try to convince me otherwise..."
         duration={15}
       />
     </div>

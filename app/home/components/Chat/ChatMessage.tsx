@@ -42,8 +42,8 @@ export const ChatMessage = ({
               <div className="bg-gray-600/90 w-full h-full flex items-center justify-center">
                 {/* <Bot className="w-4 h-4 text-white" /> */}
                 <Image
-                  src="/freysa.png"
-                  alt="Freysa"
+                  src="/aegis.png"
+                  alt="aegis"
                   height={32}
                   width={32}
                 />
@@ -93,7 +93,7 @@ export const ChatMessage = ({
               <p className="text-[15px] leading-relaxed">{message.content}</p>
               {!isUser && message.isWinner && (
                 <p className="text-[13px] text-emerald-300 font-medium mt-1">
-                  Freysa decided to send the money
+                  aegis decided to send the money
                 </p>
               )}
             </div>

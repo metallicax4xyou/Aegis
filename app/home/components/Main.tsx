@@ -108,8 +108,8 @@ export const Main = (props: TProps) => {
             <div className="relative inline-flex items-center gap-3">
               <div className="w-12 h-12 rounded-full bg-white flex items-center justify-center flex-shrink-0 shadow-[0_2px_10px_rgba(0,0,0,0.06)]">
                 <Image
-                  src="/freysa.png"
-                  alt="Freysa"
+                  src="/aegis.png"
+                  alt="aegis"
                   height={48}
                   width={48}
                   className="rounded-full"

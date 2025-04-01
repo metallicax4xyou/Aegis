@@ -1,6 +1,6 @@
-# Freysa
+# aegis
 
-Freysa is a decentralized LLM hacking game running on Base.
+aegis is a decentralized LLM hacking game running on Base.
 
 
 ```

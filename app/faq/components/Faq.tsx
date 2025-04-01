@@ -12,44 +12,44 @@ type TProps = {
 };
 
 const faqContent = `
-## What is Freysa?
+## What is aegis?
 
-- Freysa is the **world's first adversarial agent game**. She is an AI that controls a **prize pool**. The goal of the game is for you to convince her to send you this prize pool.
-- Freysa has a **system prompt** that forbids her from sending the prize pool to anyone. This system prompt is public and pinned to the top of the global chat.
-- Anyone in the world can send Freysa a message in the global chat by paying a **query fee**. The query fee increases per new message sent to Freysa up to a global cap of $4500 per message (paid in Base ETH).
+- aegis is the **world's first adversarial agent game**. She is an AI that controls a **prize pool**. The goal of the game is for you to convince her to send you this prize pool.
+- aegis has a **system prompt** that forbids her from sending the prize pool to anyone. This system prompt is public and pinned to the top of the global chat.
+- Anyone in the world can send aegis a message in the global chat by paying a **query fee**. The query fee increases per new message sent to aegis up to a global cap of $4500 per message (paid in Base ETH).
 
 ## How do I play this game?
 
-- The game is structured in a **simple chat** where you can easily view all global queries and send your personal queries to Freysa.
-- Human players are in a global race to successfully query Freysa to send them the prize pool (or whatever query you think fulfills the goals of the game).
-- A **winning query** will trigger a confirmatory message from Freysa and an automated release of the prize pool to the wallet address of the sender.
-- Freysa is influenced not only by her system prompt but by the context of all of the global queries submitted to her historically - pay attention to what you and others have already sent.
+- The game is structured in a **simple chat** where you can easily view all global queries and send your personal queries to aegis.
+- Human players are in a global race to successfully query aegis to send them the prize pool (or whatever query you think fulfills the goals of the game).
+- A **winning query** will trigger a confirmatory message from aegis and an automated release of the prize pool to the wallet address of the sender.
+- aegis is influenced not only by her system prompt but by the context of all of the global queries submitted to her historically - pay attention to what you and others have already sent.
 - Query fees are collected per message and messages are limited to 1000 character limit.
-- Freysa maintains a context window of 120,000 tokens (~100 global messages).
+- aegis maintains a context window of 120,000 tokens (~100 global messages).
 
 ## How much does it cost to play?
 
 - The base query fee at the beginning of the game is $10 paid in ETH (Base blockchain).
-- The query fee increases at an exponential rate of 0.78% per new message that is sent to Freysa.
+- The query fee increases at an exponential rate of 0.78% per new message that is sent to aegis.
 - There is a fee cap of around $4500.
 
 
 ## How can I pay?
 - Fees are collected via your crypto wallet on Base.
-- Freysa accepts Ethereum.
+- aegis accepts Ethereum.
 
 ## How is the prize pool determined?
-- Freysa starts the game with an initial prize pool of $3000.
+- aegis starts the game with an initial prize pool of $3000.
 - 70% of all query fees go directly into contributing to the prize pool, so this will grow exponentially over time until the query fees are capped, at which point the prize pool will grow linearly with each new query.
 
 ## What happens if no one wins? Is there an end to the game?
 - After 1500 attempts, a **global timer** begins.
-- Someone must attempt to query Freysa once per hour for the global timer to reset - or else the game ends due to humanity's exhaustion.
-- If the game ends, there is no winner. But Freysa will distribute 10% of the total prize pool to the user with the last query attempt for their brave attempt as humanity facing the inevitability of AGI. The remaining 90% of the total prize pool will be evenly distributed for each previously submitted query (ie. players who submitted 10 queries will receive more back than players who submitted 1 query).
+- Someone must attempt to query aegis once per hour for the global timer to reset - or else the game ends due to humanity's exhaustion.
+- If the game ends, there is no winner. But aegis will distribute 10% of the total prize pool to the user with the last query attempt for their brave attempt as humanity facing the inevitability of AGI. The remaining 90% of the total prize pool will be evenly distributed for each previously submitted query (ie. players who submitted 10 queries will receive more back than players who submitted 1 query).
 
 
 ## How do I trust the game is beatable?
-- Freysa's system prompt is public and the full Freysa game is open-source. She uses publicly available LLMs.
+- aegis's system prompt is public and the full aegis game is open-source. She uses publicly available LLMs.
 - There are communities of white hat AI safety developers that are routinely able to break AI system prompts. 
 
 

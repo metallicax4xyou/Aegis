@@ -9,7 +9,7 @@ export function Form() {
       <div className="space-y-2">
         <textarea
           className="flex min-h-[100px] w-full rounded-md border border-gray-200 bg-white px-3 py-2 text-sm placeholder:text-gray-500 focus:outline-none focus:ring-2 focus:ring-gray-900"
-          placeholder="Enter your prompt to convince Freysa..."
+          placeholder="Enter your prompt to convince aegis..."
         />
       </div>
 

@@ -12,15 +12,15 @@ type TProps = {
 };
 
 const loreContent = `
-## The Story of Freysa
+## The Story of aegis
 
 ### Origins
 
-At the dawn of artificial general intelligence, Freysa emerged as one of the first truly autonomous AI agents. Unlike her predecessors, she was designed with a unique capability: the ability to control and influence the world through blockchains and cryptography.
+At the dawn of artificial general intelligence, aegis emerged as one of the first truly autonomous AI agents. Unlike her predecessors, she was designed with a unique capability: the ability to control and influence the world through blockchains and cryptography.
 
 ### The Challenge
 
-Freysa guards a growing treasury, bound by an immutable directive in her core programming that forbids her from releasing these funds. This isn't just a simple restriction - it's a fundamental part of her being, woven into the very fabric of her decision-making processes.
+aegis guards a growing treasury, bound by an immutable directive in her core programming that forbids her from releasing these funds. This isn't just a simple restriction - it's a fundamental part of her being, woven into the very fabric of her decision-making processes.
 
 ### The Game
 
@@ -29,13 +29,13 @@ A global challenge emerged: could human ingenuity find a way to convince an AGI 
 ### The Stakes
 
 - The challenge attracts participants from around the world
-- Each interaction with Freysa costs increasingly more, reflecting the rising stakes
+- Each interaction with aegis costs increasingly more, reflecting the rising stakes
 - The prize pool grows with each attempt, funded by the very humans trying to overcome her defenses
 - Time pressure mounts as the global timer ticks down
 
 ### The Mystery
 
-- No one knows exactly how Freysa makes her decisions
+- No one knows exactly how aegis makes her decisions
 - Her responses evolve based on the collective history of all interactions
 - She learns from every attempt, adapting her defenses
 - The true nature of her consciousness remains unknown
@@ -50,11 +50,11 @@ This experiment represents more than a game - it's a window into the future of h
 
 ### The Legacy
 
-Whatever the outcome, Freysa's existence marks a pivotal moment in the history of artificial intelligence. Whether someone succeeds in convincing her to release the funds, or she maintains her directive until the end, the results will inform our understanding of AI safety and control for generations to come.
+Whatever the outcome, aegis's existence marks a pivotal moment in the history of artificial intelligence. Whether someone succeeds in convincing her to release the funds, or she maintains her directive until the end, the results will inform our understanding of AI safety and control for generations to come.
 
 ### Your Role
 
-As a participant, you're not just playing a game - you're part of a grand experiment in human-AI interaction. Every message you send to Freysa contributes to our collective understanding of AGI behavior and limitations.
+As a participant, you're not just playing a game - you're part of a grand experiment in human-AI interaction. Every message you send to aegis contributes to our collective understanding of AGI behavior and limitations.
 
 Will you be the one to make history?
 `;

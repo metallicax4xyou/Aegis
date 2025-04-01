@@ -18,7 +18,7 @@ contract Game is Test {
         prizePool = address(0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045);
         team = address(0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045);
         testAccount = address(0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045);
-        token = new Token(1000, "Freysa", "FREYSA");
+        token = new Token(1000, "aegis", "aegis");
         payment = new Payment(address(token), prizePool, 30, team, 10);
         payment.setFees(30, 10);
     }

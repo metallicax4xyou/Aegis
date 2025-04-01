@@ -14,7 +14,7 @@ type TProps = {
 const termsContent = `
 ### 1. Acceptance of Terms
 
-By accessing and participating in the Freysa game, you agree to be bound by these Terms and Conditions. If you do not agree to these terms, please do not use or participate in the game.
+By accessing and participating in the aegis game, you agree to be bound by these Terms and Conditions. If you do not agree to these terms, please do not use or participate in the game.
 
 ### 2. Game Participation
 
@@ -56,7 +56,7 @@ By accessing and participating in the Freysa game, you agree to be bound by thes
 
 ### 7. Intellectual Property
 
-- All game content, including Freysa's responses, are protected by intellectual property rights
+- All game content, including aegis's responses, are protected by intellectual property rights
 - Users retain rights to their individual queries
 - Public queries may be viewed by all participants
 

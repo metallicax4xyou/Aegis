@@ -4,7 +4,7 @@ import { base } from "wagmi/chains";
 import { PublicKey, Cluster } from "@solana/web3.js";
 
 export const config = getDefaultConfig({
-  appName: "Freysa",
+  appName: "aegis",
   projectId: "e7df0e7277ec915bd5625c2cce004386",
   chains: [base],
   ssr: true,
